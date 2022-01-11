@@ -1,6 +1,6 @@
 ﻿using MyInterface;
 
-public class MockCar : ICar
+public class MockCar : ICarSingleton, ICarScoped, ICarTransient
 {
     public string Marke { get; set; } = "VW";
     public string Modell { get; set; } = "Polo";

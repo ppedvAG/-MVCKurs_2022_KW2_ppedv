@@ -8,7 +8,7 @@ namespace MyInterface
 {
     public interface ICarV2 : ICar
     {
-        string Farbe { get; set; };
+        string Farbe { get; set; }
 
         bool AnhängerKupplung { get; set; }
 

@@ -28,8 +28,11 @@ serviceCollection.AddSingleton<ICar, MockCar>(); //Instanz wird erstellt
 
 //Scope -> Wird pro Request einmal instanziiert! Request bedeutet der Browser (URL) steuert eine Seite auf dem WebServer an.
 //Der WebServer will die Seite aufbereiten (dieser Vorgang ist die Request - Scope). Beispiel DBContext. Pro Instanziierung kann EFCore die aktuellsten Daten auslesen. 
+//Use Case -> EFCore -> DbContext (bei AddDbContext())
+
 
 //Transient -> Pro Request und wenn es jedesmal verwendet wird
+//Use CAse -> bei Komprimierungen 
 
 
 

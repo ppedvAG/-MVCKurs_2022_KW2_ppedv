@@ -1,0 +1,19 @@
+﻿@using MyInterface;
+@inject ICarScoped car;
+
+
+@{
+    ViewData["Title"] = "BetterThanIndex2";
+}
+
+<h1>BetterThanIndex2</h1>
+
+@car.Marke
+
+<br />
+
+@car.Modell
+
+<br />
+
+@car.Baujahr

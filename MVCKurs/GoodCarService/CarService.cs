@@ -1,4 +1,5 @@
 ﻿using MyInterface;
+using System.Diagnostics;
 
 namespace GoodCarService
 {
@@ -8,10 +9,10 @@ namespace GoodCarService
         {
             if (car.HatTüv())
             {
-                Console.WriteLine(car.Marke + " " + car.Modell + " wird repariert");
+                Debug.WriteLine(car.Marke + " " + car.Modell + " wird repariert");
             }
             else
-                Console.WriteLine(car.Marke + " " + car.Modell + " wird länger repariert -> Grund: Kein Tüv");
+                Debug.WriteLine(car.Marke + " " + car.Modell + " wird länger repariert -> Grund: Kein Tüv");
 
 
         }

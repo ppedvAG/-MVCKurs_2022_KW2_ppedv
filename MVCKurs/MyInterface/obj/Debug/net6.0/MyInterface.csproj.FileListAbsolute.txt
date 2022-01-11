@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.AssemblyInfo.cs
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\bin\Debug\net6.0\MyInterface.deps.json
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\bin\Debug\net6.0\MyInterface.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\bin\Debug\net6.0\ref\MyInterface.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\bin\Debug\net6.0\MyInterface.pdb
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\ref\MyInterface.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.pdb
