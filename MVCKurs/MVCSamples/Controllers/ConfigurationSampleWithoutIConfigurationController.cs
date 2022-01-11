@@ -19,8 +19,8 @@ namespace MVCSamples.Controllers
             arrayExample = array.Value;
         }
 
-
-        public IActionResult Index([FromServices] PositionOptions options) //wäre Methodenweit
+        
+        public IActionResult Index([FromServices] IOptionsSnapshot<PositionOptions> options) //wäre Methodenweit
         {
             return View();
         }
