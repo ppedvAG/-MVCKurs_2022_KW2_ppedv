@@ -9,4 +9,23 @@
 
         public bool HatTüv();
     }
+
+    //Für IServiceCollection eine Detailunterscheidung
+    public interface ICarSingleton : ICar
+    {
+
+    }
+
+    public interface ICarScoped : ICar
+    {
+
+    }
+
+
+    public interface ICarTransient : ICar
+    {
+
+    }
+
+
 }

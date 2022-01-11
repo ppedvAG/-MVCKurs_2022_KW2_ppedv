@@ -2,7 +2,7 @@
 
 namespace GoodCarService
 {
-    public class CarService : ICarService
+    public class CarService : ICarServiceSingleton, ICarServiceScoped, ICarServiceTrransient // ICarService auch findbar,
     {
         public void Repair(ICar car)
         {

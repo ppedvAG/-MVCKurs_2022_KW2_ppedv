@@ -41,6 +41,42 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "GoodCar/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyInterface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodCar.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodCar.dll": {}
+        }
+      },
+      "GoodCarService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MyInterface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodCarService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodCarService.dll": {}
+        }
+      },
+      "MyInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyInterface.dll": {}
+        }
       }
     }
   },
@@ -119,11 +155,29 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "GoodCar/1.0.0": {
+      "type": "project",
+      "path": "../GoodCar/GoodCar.csproj",
+      "msbuildProject": "../GoodCar/GoodCar.csproj"
+    },
+    "GoodCarService/1.0.0": {
+      "type": "project",
+      "path": "../GoodCarService/GoodCarService.csproj",
+      "msbuildProject": "../GoodCarService/GoodCarService.csproj"
+    },
+    "MyInterface/1.0.0": {
+      "type": "project",
+      "path": "../MyInterface/MyInterface.csproj",
+      "msbuildProject": "../MyInterface/MyInterface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.Extensions.DependencyInjection >= 6.0.0"
+      "GoodCar >= 1.0.0",
+      "GoodCarService >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 6.0.0",
+      "MyInterface >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -159,7 +213,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\GoodCarService\\GoodCarService.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\GoodCarService\\GoodCarService.csproj"
+            },
+            "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\GoodCar\\GoodCar.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\GoodCar\\GoodCar.csproj"
+            },
+            "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\MyInterface\\MyInterface.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\-MVCKurs_2022_KW2_ppedv\\MVCKurs\\MyInterface\\MyInterface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

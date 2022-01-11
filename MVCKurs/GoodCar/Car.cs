@@ -1,6 +1,6 @@
 ﻿using MyInterface;
 
-public class Car : ICar
+public class Car : ICarSingleton, ICarTransient, ICarScoped
 {
     public string Marke { get; set; } = default!;
     public string Modell { get; set; } = default!;
