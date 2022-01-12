@@ -30,7 +30,67 @@
       "ProjectGuid": "8286c8f6-e1ea-4ced-9313-f1d7f2fe6a66",
       "DisplayName": "MVCSamples",
       "ColorIndex": 4
+    },
+    "636a9dcf-0808-464b-b8ac-9b68f5b8a3e7": {
+      "ProjectGuid": "636a9dcf-0808-464b-b8ac-9b68f5b8a3e7",
+      "DisplayName": "DI_ServiceCollection_ServiceProvider",
+      "ColorIndex": 5
+    },
+    "c35f3998-c753-4c21-a404-8f8e748e8509": {
+      "ProjectGuid": "c35f3998-c753-4c21-a404-8f8e748e8509",
+      "DisplayName": "DI_Intro",
+      "ColorIndex": 6
+    },
+    "1a06fd32-4479-4e95-bd78-78a1b32f0fbb": {
+      "ProjectGuid": "1a06fd32-4479-4e95-bd78-78a1b32f0fbb",
+      "DisplayName": "MyBadCar",
+      "ColorIndex": 7
+    },
+    "73c511c8-70d9-472d-bfed-79052ffb1aaa": {
+      "ProjectGuid": "73c511c8-70d9-472d-bfed-79052ffb1aaa",
+      "DisplayName": "BadCarService",
+      "ColorIndex": 8
+    },
+    "1314aa07-8790-401b-b917-f2e1e104ccc2": {
+      "ProjectGuid": "1314aa07-8790-401b-b917-f2e1e104ccc2",
+      "DisplayName": "BadAndExpensiveApp",
+      "ColorIndex": 9
+    },
+    "fd7a7eb4-ec4e-49a2-82ac-be5d3194cb7e": {
+      "ProjectGuid": "fd7a7eb4-ec4e-49a2-82ac-be5d3194cb7e",
+      "DisplayName": "MyInterface",
+      "ColorIndex": 10
+    },
+    "7bc3e619-8586-4ef3-8477-7c0dcd9d1d30": {
+      "ProjectGuid": "7bc3e619-8586-4ef3-8477-7c0dcd9d1d30",
+      "DisplayName": "GoodCar",
+      "ColorIndex": 11
+    },
+    "13421399-5132-43ac-bca7-15dcf12b5d31": {
+      "ProjectGuid": "13421399-5132-43ac-bca7-15dcf12b5d31",
+      "DisplayName": "GoodCarService",
+      "ColorIndex": 12
+    },
+    "139e05c6-886d-421a-bfbe-a956db85ef39": {
+      "ProjectGuid": "139e05c6-886d-421a-bfbe-a956db85ef39",
+      "DisplayName": "GoodApp",
+      "ColorIndex": 13
+    },
+    "60ecfd1d-3742-431e-a5d3-d4653224be54": {
+      "ProjectGuid": "60ecfd1d-3742-431e-a5d3-d4653224be54",
+      "DisplayName": "DIScopeVsTransientVsSingletonSample",
+      "ColorIndex": 14
+    },
+    "4c2e0ea3-ebca-4031-94c0-38a0d4ae2d90": {
+      "ProjectGuid": "4c2e0ea3-ebca-4031-94c0-38a0d4ae2d90",
+      "DisplayName": "BuildUpMVCApp",
+      "ColorIndex": 15
+    },
+    "09f290b3-25f3-48e7-909d-9eccfa9d0e81": {
+      "ProjectGuid": "09f290b3-25f3-48e7-909d-9eccfa9d0e81",
+      "DisplayName": "RazorAndFormularSampels",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 1
 }

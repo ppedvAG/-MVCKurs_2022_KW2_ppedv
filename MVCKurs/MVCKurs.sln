@@ -19,29 +19,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCSamples", "MVCSamples\MVCSamples.csproj", "{8286C8F6-E1EA-4CED-9313-F1D7F2FE6A66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_ServiceCollection_ServiceProvider", "DI_ServiceCollection_ServiceProvider\DI_ServiceCollection_ServiceProvider.csproj", "{636A9DCF-0808-464B-B8AC-9B68F5B8A3E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DI_ServiceCollection_ServiceProvider", "DI_ServiceCollection_ServiceProvider\DI_ServiceCollection_ServiceProvider.csproj", "{636A9DCF-0808-464B-B8AC-9B68F5B8A3E7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DI_Einstieg", "DI_Einstieg", "{154BF413-DED7-4211-B5A7-0B3D424F8AD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBadCar", "MyBadCar\MyBadCar.csproj", "{1A06FD32-4479-4E95-BD78-78A1B32F0FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBadCar", "MyBadCar\MyBadCar.csproj", "{1A06FD32-4479-4E95-BD78-78A1B32F0FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadCarService", "BadCarService\BadCarService.csproj", "{73C511C8-70D9-472D-BFED-79052FFB1AAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadCarService", "BadCarService\BadCarService.csproj", "{73C511C8-70D9-472D-BFED-79052FFB1AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadAndExpensiveApp", "BadAndExpensiveApp\BadAndExpensiveApp.csproj", "{1314AA07-8790-401B-B917-F2E1E104CCC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BadAndExpensiveApp", "BadAndExpensiveApp\BadAndExpensiveApp.csproj", "{1314AA07-8790-401B-B917-F2E1E104CCC2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bad_FesteKopplung", "Bad_FesteKopplung", "{1AEF0DBC-AAA0-48E9-B9C3-9AA2C728113C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInterface", "MyInterface\MyInterface.csproj", "{FD7A7EB4-EC4E-49A2-82AC-BE5D3194CB7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyInterface", "MyInterface\MyInterface.csproj", "{FD7A7EB4-EC4E-49A2-82AC-BE5D3194CB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodCar", "GoodCar\GoodCar.csproj", "{7BC3E619-8586-4EF3-8477-7C0DCD9D1D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodCar", "GoodCar\GoodCar.csproj", "{7BC3E619-8586-4EF3-8477-7C0DCD9D1D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodCarService", "GoodCarService\GoodCarService.csproj", "{13421399-5132-43AC-BCA7-15DCF12B5D31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodCarService", "GoodCarService\GoodCarService.csproj", "{13421399-5132-43AC-BCA7-15DCF12B5D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodApp", "GoodApp\GoodApp.csproj", "{139E05C6-886D-421A-BFBE-A956DB85EF39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodApp", "GoodApp\GoodApp.csproj", "{139E05C6-886D-421A-BFBE-A956DB85EF39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoodSample_LoseKopplung", "GoodSample_LoseKopplung", "{CBD4A685-CC81-44B0-ABB4-919C5677ACEE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIScopeVsTransientVsSingletonSample", "DIScopeVsTransientVsSingletonSample\DIScopeVsTransientVsSingletonSample.csproj", "{60ECFD1D-3742-431E-A5D3-D4653224BE54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildUpMVCApp", "BuildUpMVCApp\BuildUpMVCApp.csproj", "{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorAndFormularSampels", "RazorAndFormularSampels\RazorAndFormularSampels.csproj", "{09F290B3-25F3-48E7-909D-9ECCFA9D0E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollywoodMovieApp", "HollywoodMovieApp\HollywoodMovieApp.csproj", "{76772C22-9CAD-450B-856C-F1C1C03D445A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +107,18 @@ Global
 		{60ECFD1D-3742-431E-A5D3-D4653224BE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60ECFD1D-3742-431E-A5D3-D4653224BE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60ECFD1D-3742-431E-A5D3-D4653224BE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F290B3-25F3-48E7-909D-9ECCFA9D0E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F290B3-25F3-48E7-909D-9ECCFA9D0E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F290B3-25F3-48E7-909D-9ECCFA9D0E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F290B3-25F3-48E7-909D-9ECCFA9D0E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76772C22-9CAD-450B-856C-F1C1C03D445A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76772C22-9CAD-450B-856C-F1C1C03D445A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76772C22-9CAD-450B-856C-F1C1C03D445A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76772C22-9CAD-450B-856C-F1C1C03D445A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +136,7 @@ Global
 		{139E05C6-886D-421A-BFBE-A956DB85EF39} = {CBD4A685-CC81-44B0-ABB4-919C5677ACEE}
 		{CBD4A685-CC81-44B0-ABB4-919C5677ACEE} = {154BF413-DED7-4211-B5A7-0B3D424F8AD9}
 		{60ECFD1D-3742-431E-A5D3-D4653224BE54} = {154BF413-DED7-4211-B5A7-0B3D424F8AD9}
+		{4C2E0EA3-EBCA-4031-94C0-38A0D4AE2D90} = {B8710B4E-E0B2-4274-82DF-E267BF25533E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C82C29B-C7EA-4FE1-8922-97A0F413E6A4}

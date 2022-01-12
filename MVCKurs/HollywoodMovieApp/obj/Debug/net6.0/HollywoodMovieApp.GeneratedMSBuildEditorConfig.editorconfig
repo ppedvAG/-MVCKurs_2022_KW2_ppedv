@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HollywoodMovieApp
+build_property.RootNamespace = HollywoodMovieApp
+build_property.ProjectDir = C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\HollywoodMovieApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\HollywoodMovieApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Actors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Actors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Actors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Actors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Reggiseurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnZ2lzZXVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Reggiseurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnZ2lzZXVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Reggiseurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnZ2lzZXVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Reggiseurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnZ2lzZXVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Reggiseurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnZ2lzZXVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/-MVCKurs_2022_KW2_ppedv/MVCKurs/HollywoodMovieApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-seeoz98duv

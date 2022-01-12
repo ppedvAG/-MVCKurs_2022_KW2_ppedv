@@ -1,0 +1,29 @@
+﻿@model HollywoodMovieApp.ViewModels.CreateUpdateMovieViewModel;
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Movie.Title" class="control-label"></label>
+                <input asp-for="Movie.Title" class="form-control" />
+                <span asp-validation-for="Movie.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movie.Description" class="control-label"></label>
+                <input asp-for="Movie.Description" class="form-control" />
+                <span asp-validation-for="Movie.Description" class="text-danger"></span>
+            </div>
+
+            <label class="control-label">Verfügbare Reggiseure</label>
+            <select class="form-control" id = ""></select>
+
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -62,5 +62,22 @@ Middleware
 
 
 
+Mittwoch: 
+
+[ ] MVC Aufbau 
+   - [ ] _Layout - Datei + Views
+   - [ ] ViewImport / ViewStart 
+   - [ ] Startup (MVC Implementierung)
+   - [ ] wwwRoot Ordner 
+	- [ ] css
+        - [ ] jQuery (javascript) 
+
+
+   - Controller -> View (Daten übergeben und anzeigen) 
+   - Was ist GET / POST  
+   - Was ist ein Formular
+   - Wie wird ein Formular ausgewertet. 
+ 
+
 
 

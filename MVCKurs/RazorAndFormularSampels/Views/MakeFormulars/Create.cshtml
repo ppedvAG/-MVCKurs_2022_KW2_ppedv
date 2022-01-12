@@ -1,0 +1,40 @@
+﻿@model RazorAndFormularSampels.Models.Employee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<form method="Post" asp-action="Create">
+
+    <!-- Ausgabemöglichkeit 1 bei Fehlermeldungen (Alle Fehlermeldungen werden untereinander angezeigt -->
+    <div asp-validation-summary="All" class="text-danger"></div> <!-- asp-validation-summary="All" ermöglicht das nzeigen der Fehlermeldung -->
+
+    <div class="form-group">
+       <label asp-for="FirstName" class="control-label"></label> <!-- Labelausgabe -->
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+       <label asp-for="LastName" class="control-label"></label> <!-- Labelausgabe -->
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+     <div class="form-group">
+        <label asp-for="Birthday" class="control-label"></label> <!-- Labelausgabe -->
+        <input asp-for="Birthday" class="form-control" />
+        <span asp-validation-for="Birthday" class="text-danger"></span>
+    </div>
+     <div class="form-group">
+       <label asp-for="Address" class="control-label"></label> <!-- Labelausgabe -->
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Erstellen" class="btn btn-primary"/>
+</form>>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

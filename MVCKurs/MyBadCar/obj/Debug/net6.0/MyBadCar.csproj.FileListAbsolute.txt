@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\bin\Debug\net6.0\MyBadCar.deps.json
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\bin\Debug\net6.0\MyBadCar.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\bin\Debug\net6.0\ref\MyBadCar.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\bin\Debug\net6.0\MyBadCar.pdb
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.AssemblyInfo.cs
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\ref\MyBadCar.dll
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyBadCar\obj\Debug\net6.0\MyBadCar.pdb

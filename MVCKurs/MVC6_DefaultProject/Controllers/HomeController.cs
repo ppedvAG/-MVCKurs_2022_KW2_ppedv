@@ -20,7 +20,7 @@ namespace MVC6_DefaultProject.Controllers
 
         public IActionResult Privacy()
         {
-            return View();
+            return View(); //Nehme aus Views\Home\Privacy die HTMLCS-Datei und zeige diese an
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
