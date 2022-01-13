@@ -1,0 +1,4 @@
+2022-01-13 16:15:19.799 +01:00 [INF] Call the Index View
+2022-01-13 16:15:32.361 +01:00 [INF] Call the Privacy View
+2022-01-13 16:15:35.391 +01:00 [INF] Call the Index View
+2022-01-13 16:15:39.407 +01:00 [INF] Call the Privacy View

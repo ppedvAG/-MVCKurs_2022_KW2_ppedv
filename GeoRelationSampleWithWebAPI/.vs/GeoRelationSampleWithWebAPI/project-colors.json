@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77c6f152-38c2-435c-b259-9e7952aacdfd": {
+      "ProjectGuid": "77c6f152-38c2-435c-b259-9e7952aacdfd",
+      "DisplayName": "GeoRelationSample.Shared",
+      "ColorIndex": 0
+    },
+    "9c5283bf-4239-40e0-805d-f2e723e6ba91": {
+      "ProjectGuid": "9c5283bf-4239-40e0-805d-f2e723e6ba91",
+      "DisplayName": "GeoRelationSample.MVC",
+      "ColorIndex": 1
+    },
+    "9610de9b-b9c0-4a42-ad38-ebf3fc841838": {
+      "ProjectGuid": "9610de9b-b9c0-4a42-ad38-ebf3fc841838",
+      "DisplayName": "GeoRelationSample.API",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

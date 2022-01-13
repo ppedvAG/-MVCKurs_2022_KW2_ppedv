@@ -59,7 +59,7 @@ namespace GeoRelationsVMSample.Controllers
             //SelectContintentList <SelectItemList>
           
 
-            return View();
+            //return View();
 
 
             //ViewData["ContinentId"] = new SelectList(_context.Continents, "Id", "Id");

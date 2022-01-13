@@ -15,11 +15,13 @@ namespace MVCSamples.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Call the Index View");
             return View();
         }
 
         public IActionResult Privacy()
         {
+            _logger.LogInformation("Call the Privacy View");
             return View();
         }
 
