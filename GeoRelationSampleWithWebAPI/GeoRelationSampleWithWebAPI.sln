@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRelationSample.Shared", "GeoRelationSample.Shared\GeoRelationSample.Shared.csproj", "{77C6F152-38C2-435C-B259-9E7952AACDFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRelationSample.MVC", "GeoRelationSample.MVC\GeoRelationSample.MVC.csproj", "{9C5283BF-4239-40E0-805D-F2E723E6BA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRelationSample.API", "GeoRelationSample.API\GeoRelationSample.API.csproj", "{9610DE9B-B9C0-4A42-AD38-EBF3FC841838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C6F152-38C2-435C-B259-9E7952AACDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C6F152-38C2-435C-B259-9E7952AACDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C6F152-38C2-435C-B259-9E7952AACDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C6F152-38C2-435C-B259-9E7952AACDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5283BF-4239-40E0-805D-F2E723E6BA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5283BF-4239-40E0-805D-F2E723E6BA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5283BF-4239-40E0-805D-F2E723E6BA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5283BF-4239-40E0-805D-F2E723E6BA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9610DE9B-B9C0-4A42-AD38-EBF3FC841838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9610DE9B-B9C0-4A42-AD38-EBF3FC841838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9610DE9B-B9C0-4A42-AD38-EBF3FC841838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9610DE9B-B9C0-4A42-AD38-EBF3FC841838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9756C575-DE0B-4066-A9F0-17F014CA2876}
+	EndGlobalSection
+EndGlobal

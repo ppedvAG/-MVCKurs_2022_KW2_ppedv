@@ -9,3 +9,4 @@ C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\bin\Debug\net6.0\M
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\ref\MyInterface.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.pdb
+C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MyInterface\obj\Debug\net6.0\MyInterface.csproj.AssemblyReference.cache

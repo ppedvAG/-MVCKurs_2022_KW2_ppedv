@@ -4,7 +4,6 @@ C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\bin\Debug\net6.
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\bin\Debug\net6.0\ref\CSharp10Sample.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.pdb
-C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfo.cs

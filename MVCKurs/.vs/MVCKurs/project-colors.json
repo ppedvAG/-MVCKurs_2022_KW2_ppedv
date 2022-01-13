@@ -90,7 +90,22 @@
       "ProjectGuid": "09f290b3-25f3-48e7-909d-9eccfa9d0e81",
       "DisplayName": "RazorAndFormularSampels",
       "ColorIndex": 0
+    },
+    "76772c22-9cad-450b-856c-f1c1c03d445a": {
+      "ProjectGuid": "76772c22-9cad-450b-856c-f1c1c03d445a",
+      "DisplayName": "HollywoodMovieApp",
+      "ColorIndex": 1
+    },
+    "dda727cc-3880-4f7f-b257-de4ed8dc773e": {
+      "ProjectGuid": "dda727cc-3880-4f7f-b257-de4ed8dc773e",
+      "DisplayName": "GeoRelationsSample",
+      "ColorIndex": 2
+    },
+    "eca86293-4a27-4c9f-aa03-799ab70e6e7d": {
+      "ProjectGuid": "eca86293-4a27-4c9f-aa03-799ab70e6e7d",
+      "DisplayName": "GeoRelationsVMSample",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

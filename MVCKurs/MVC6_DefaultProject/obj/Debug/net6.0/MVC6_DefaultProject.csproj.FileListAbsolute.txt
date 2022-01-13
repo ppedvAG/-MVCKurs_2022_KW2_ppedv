@@ -7,7 +7,6 @@ C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\bin\Debug\
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\bin\Debug\net6.0\MVC6_DefaultProject.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\bin\Debug\net6.0\ref\MVC6_DefaultProject.dll
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\bin\Debug\net6.0\MVC6_DefaultProject.pdb
-C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\obj\Debug\net6.0\MVC6_DefaultProject.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\obj\Debug\net6.0\MVC6_DefaultProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\obj\Debug\net6.0\MVC6_DefaultProject.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\-MVCKurs_2022_KW2_ppedv\MVCKurs\MVC6_DefaultProject\obj\Debug\net6.0\MVC6_DefaultProject.AssemblyInfo.cs
