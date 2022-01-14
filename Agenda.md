@@ -39,14 +39,15 @@ Die Controller-Klasse (MVC)
 
 Tag 3:
 - [ ] Übung Gästebuch (GET/POST) + EFCore(Model erstellen, DbContext-Klasse, Rollout auf DB)
+
 State-Management
-- [ ] ViewData////
+- [ ] ViewData//
 - [ ] ViewBag
 - [ ] TempData
 - [ ] Session-Handling -> Bauen einen Warenkorb (mit Artikel entfernen)
 - [ ] Identity UI in ASP.NET Core MVC -> weitere UseCases zu PartialView
 
-- [ ] Tabelle Sortierung, Pagging, Filtern direkt mit EFCore 
+- [ ] Tabelle Sortierung, Pagging, Filtern direkt mit MVC/EFCore 
 - [ ] ViewComponents & Localization -> Referenz Projekte anschauen
 
 
